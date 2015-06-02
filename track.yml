@@ -5,7 +5,10 @@ track:
     topics:
     -   title: Thongs
         uuid: 1e741518-0c58-44cb-8e25-e236c14140a4
-        units: []
+        units:
+        -   title: When to Wear Socks
+            uuid: 4f04d533-0b31-43f6-a238-d31a0f200e28
+            lessons: []
     -   title: Berkstocks
         uuid: 3c430085-bf15-4325-84ab-a39aec7da8ec
         units: []
